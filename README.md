@@ -57,9 +57,4 @@ FE01: o link está incorreto
 
 1. O sistema pedirá que o usuário insira um link válido até que o mesmo seja feito  </td> 
 
-
-
 </table>
-
-> ### Casos de uso (Sistema) 📂
-https://drive.google.com/file/d/16aYGVGWTIodL6-j6QJFfjidRNGlUh5c-/view?usp=sharing
